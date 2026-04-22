@@ -1,0 +1,9 @@
+{
+  "account": {
+    "id": "99999999-aaaa-4bbb-8ccc-000000000001",
+    "type": "ACCOUNT_TYPE_DEBIT_CARD",
+    "status": "ACCOUNT_STATUS_ACTIVE",
+    "userId": "99999999-aaaa-4bbb-8ccc-000000000001",
+    "balance": 24580.4
+  }
+}

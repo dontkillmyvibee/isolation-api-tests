@@ -1,0 +1,16 @@
+{
+  "cards": [
+    {
+      "id": "22222222-bbbb-4ccc-8ddd-333333333333",
+      "pin": "4321",
+      "cvv": "321",
+      "type": "CARD_TYPE_PHYSICAL",
+      "status": "CARD_STATUS_ACTIVE",
+      "accountId": "99999999-aaaa-4bbb-8ccc-000000000001",
+      "cardNumber": "4000123412341234",
+      "cardHolder": "OLGA SMIRNOVA",
+      "expiryDate": "2029-03-31",
+      "paymentSystem": "CARD_PAYMENT_SYSTEM_VISA"
+    }
+  ]
+}

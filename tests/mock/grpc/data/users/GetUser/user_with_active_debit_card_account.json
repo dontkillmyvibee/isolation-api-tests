@@ -1,0 +1,10 @@
+{
+  "user": {
+    "id": "99999999-aaaa-4bbb-8ccc-000000000001",
+    "email": "olga.smirnova@example.com",
+    "lastName": "Smirnova",
+    "firstName": "Olga",
+    "middleName": "Ivanovna",
+    "phoneNumber": "+79001112233"
+  }
+}
