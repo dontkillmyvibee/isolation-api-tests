@@ -100,7 +100,7 @@ services:
     <<: *python-service
     ports: [ "8003:8003" ]
     command: "tests.mock.http.server"
-    container_name: "http_mock"
+    container_name: "http-mock"
 
 
   # gateway-services
